@@ -8,3 +8,6 @@
 - Skateboard
 - Basquete
 - Ciclismo
+
+##primeiro codigo
+por favor olhe o arquivo hello.c
